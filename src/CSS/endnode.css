@@ -1,0 +1,10 @@
+.end-cell{
+
+    width: 30px;
+    height: 30px;
+    border: solid #625fb3 1px;
+    background-color: white;
+    border-radius:0;
+    transition:0.2s;
+
+}
